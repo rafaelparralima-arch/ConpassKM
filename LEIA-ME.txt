@@ -1,0 +1,11 @@
+CONTADOR DE PASSOS - COMO PUBLICAR
+
+1. Crie uma conta no GitHub e um repositorio publico.
+2. Extraia este ZIP e envie todos os arquivos para a raiz do repositorio.
+3. No repositorio, abra Settings > Pages.
+4. Em Source, escolha Deploy from a branch. Selecione main e /(root), depois Save.
+5. Abra no celular o endereco informado pelo GitHub Pages.
+6. Android: menu do navegador > Adicionar a tela inicial/Instalar.
+   iPhone: Safari > Compartilhar > Adicionar a Tela de Inicio.
+
+Observacao: o navegador pode suspender sensores em segundo plano. Teste com a tela ativa.
